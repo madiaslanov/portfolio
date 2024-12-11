@@ -1,0 +1,16 @@
+Home
+About
+Portfolio
+Blog
+Contact
+
+Let's Talk
+Hi, I'm Madi Aslan
+
+I'm a passionate and creative web designer who crafts visually stunning and user-friendly websites.
+With a keen eye for design and a deep understanding of modern web development, I transform ideas into
+beautifully functional digital experiences.
+
+
+rgb(133, 40, 255)
+rgba(43, 58, 85, 0.9)
